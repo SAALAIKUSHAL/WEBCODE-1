@@ -1,0 +1,26 @@
+
+
+body{
+    background:linear-gradient(55deg,#0a0a0a,#3a4452) ;
+}
+.box{
+    text-align: center;
+    margin-top: 95px;
+    color: aquamarine;
+    padding: 10px 15px 10px 35px;
+   
+}
+
+h1{
+    padding: 10px 20px 10px 10px;
+}
+
+button{
+    margin: 10px 5px 10px 20px;
+}
+input{
+    border-radius: 6px;
+    padding: 4px;
+    width: 20%;
+    background-color: rgb(189, 207, 223);
+}
